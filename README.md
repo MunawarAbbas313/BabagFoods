@@ -9,12 +9,7 @@ A modern and fully responsive **Food Delivery Web Application** built with **Rea
 
 ---
 
-## 🖼️ Preview
 
-![App Preview](./preview.png)  
-*(Include a screenshot or GIF of your app)*
-
----
 
 ## 🛠️ Features
 
@@ -46,4 +41,13 @@ A modern and fully responsive **Food Delivery Web Application** built with **Rea
 ---
 
 ## 📁 Project Structure
+📦 src
+├── components # Reusable UI components (Nav, Cards, etc.)
+├── context # Context API setup
+├── pages # App pages (Home, Cart, etc.)
+├── Redux # Redux slices and store config
+├── assets # Images and static assets
+└── App.js # Main App file with routing
+
+
 
